@@ -1,0 +1,16 @@
+*.fst
+*.fst.hier
+*.vcd
+*.vvp
+.DS_Store
+.idea
+.venv/
+runs
+src/config_merged.json
+src/user_config.json
+test/__pycache__/
+test/gate_level_netlist.v
+test/results.xml
+test/sim_build/
+tt_submission
+__pycache__/
